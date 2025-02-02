@@ -4,7 +4,6 @@
 
 白皮书
 
-* [bitcoinpaper.info](https://www.bitcoinpaper.info) (HTML版本第五章最后一段缺失)
 * [bitcoin.org](https://bitcoin.org/en/bitcoin-paper): [英文版](https://bitcoin.org/bitcoin.pdf), [简体中文版](https://bitcoin.org/files/bitcoin-paper/bitcoin_zh_cn.pdf)
 * 本站备份: [英文版](bitcoin_en.pdf), [简体中文版](bitcoin_zh_cn.pdf)
 
